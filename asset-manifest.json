@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/increment-decrement-app/static/css/main.dd915b09.css",
+    "main.js": "/increment-decrement-app/static/js/main.33fbfc01.js",
+    "index.html": "/increment-decrement-app/index.html",
+    "main.dd915b09.css.map": "/increment-decrement-app/static/css/main.dd915b09.css.map",
+    "main.33fbfc01.js.map": "/increment-decrement-app/static/js/main.33fbfc01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd915b09.css",
+    "static/js/main.33fbfc01.js"
+  ]
+}
